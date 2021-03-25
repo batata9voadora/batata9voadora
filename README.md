@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @batata9voadora
+- 👀 I’m interested in python and c#
+- 🌱 I’m currently learning curses (python) numpy & fish shell
+- 💞️ I’m looking to collaborate on linux
+- 📫 How to reach me ... you won't
